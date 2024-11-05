@@ -1,5 +1,5 @@
 # infinispan-micrometer-reproducer
-Reproduces bug in Infinispan / Micrometer
+Reproduces bug in Infinispan / Micrometer, ticket: https://github.com/infinispan/infinispan/discussions/13133
 
 ## How to reproduce
 This is an almost empty project created with https://start.spring.io, all I did was
